@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test home component Should render component 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="row grid add-new-btn"
+  >
+    <a
+      className="btn btn-success"
+      href="/new"
+      onClick={[Function]}
+    >
+      Add gradient
+    </a>
+  </div>
+</div>
+`;

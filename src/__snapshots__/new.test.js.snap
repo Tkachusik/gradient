@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test new component Should render component 1`] = `
+<div
+  className="container-fluid h-100"
+>
+  <div
+    className="row align-items-center new-gradient h-100"
+  >
+    <div
+      className="col-3"
+    />
+    <div
+      className="col-6"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-6"
+        >
+          <input
+            className="form-control"
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          className="col-6"
+        >
+          <input
+            className="form-control"
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          className="d-grid gap-2 place"
+        >
+          <button
+            className="btn btn-light distance"
+            disabled={true}
+            onClick={[Function]}
+          >
+            Add gradient
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-3"
+    />
+  </div>
+</div>
+`;
